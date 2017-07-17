@@ -1,0 +1,6 @@
+@import "../halo/halo-defaults";
+@import "halo-facebook-defaults";
+
+.halo-facebook {
+  @include halo-facebook;
+}
