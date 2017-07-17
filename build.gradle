@@ -12,7 +12,7 @@ sourceSets {
             srcDir 'src'
         }
         resources {
-            srcDir 'themes'
+            srcDir 'src'
         }
     }
 }
